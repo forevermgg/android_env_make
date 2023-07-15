@@ -1,3 +1,4 @@
+brew install openjdk@11
 # 1.一定先把JAVA_HOME 清空
 unset JAVA_HOME
  
