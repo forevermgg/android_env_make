@@ -28,3 +28,22 @@ export PATH=${PATH}:${ANDROID_HOME}/emulator
 ```
 /Users/centforever/Library/Android/sdk/cmake
 ```
+# sdkmanager
+```bash
+❯ pwd
+/Users/centforever/Library/Android/sdk/tools/bin
+❯ ls
+apkanalyzer       jobb              screenshot2
+archquery         lint              sdkmanager
+avdmanager        monkeyrunner      uiautomatorviewer
+```
+# 安装ndk
+
+# 查看clang信息
+```bash
+❯ cat $ANDROID_HOME/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/AndroidVersion.txt
+14.0.6
+based on r450784d
+for additional information on LLVM revision and cherry-picks, see clang_source_info.md%
+```
+
