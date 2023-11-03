@@ -19,12 +19,8 @@ brew cu -a
 ```
 # 下载第三方应用
 ```
-brew cask install alfred
 brew cask install google-chrome
 brew cask install iina
-brew cask install steam
-brew cask install virtualbox
-brew cask install virtualbox-extension-pack
 ```
 # 下载 MAS
 + mas 作为终端上的 Mac App Store，其劣势是无法随意浏览众多应用、没有编辑推荐、没有排行榜… 但也因为不用加载这么多东西，甚至不用加载图片，它才有着惊人的速度。 

@@ -1,5 +1,6 @@
 import shutil
-from common import execCmdBySys, execCmdByPopen
+
+from common import execCmdBySys
 
 
 def checkWhich(cmd):
