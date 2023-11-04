@@ -12,6 +12,7 @@ def test():
 if __name__ == '__main__':
     # test()
     execCmdBySys("brew install git")
+    execCmdBySys("brew install git-lfs")
     execCmdBySys("brew install gradle")
     execCmdBySys("brew install binutils")
     execCmdBySys("brew install coreutils")
