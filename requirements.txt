@@ -1,0 +1,4 @@
+attrs>=19.1.0
+flatbuffers>=2.0
+matplotlib
+numpy
